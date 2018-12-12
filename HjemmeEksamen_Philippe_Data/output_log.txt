@@ -1,0 +1,90 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  5.988 seconds
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\OneDrive\Documents\Westerdals\1_Klasse\PG2201_UnityUtvikling\Hjemmeeksamen_Philippe-Phil-ROG\HjemmeEksamen_Philippe_Data\Managed\System.dll (this message is harmless)
+desktop: 3200x1800 60Hz; virtual: 3200x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The tree Birch_6 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_6 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_6 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_6 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_6 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_3 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_3 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_3 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_3 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_3 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_9 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_9 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_9 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_9 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Birch_9 1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+UnloadTime: 0.853599 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: c30 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.410550 ms
